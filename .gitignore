@@ -1,10 +1,9 @@
-
-
 # Exclude these files from the git repo
 wp-content/backup/*
 wp-content/cache/*
 wp-content/upgrade/*
 wp-content/uploads/*
+.env
 # sitemap.*
 # wordpress/wp-config.php
  
