@@ -1,0 +1,9 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/WordPress/WordPress.git
+[submodule "wp-content/themes/astra"]
+	path = wp-content/themes/astra
+	url = https://github.com/brainstormforce/astra.git
+[submodule "wp-content/plugins/astra-sites"]
+	path = wp-content/plugins/astra-sites
+	url = https://github.com/brainstormforce/astra-sites.git
